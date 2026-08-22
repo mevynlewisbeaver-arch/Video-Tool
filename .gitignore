@@ -1,0 +1,12 @@
+main.py
+build.bat
+install.bat
+requirements.txt
+ffmpeg/
+piper/
+build/
+__pycache__/
+*.exe
+*.spec
+*.zip
+*.pyc
